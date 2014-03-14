@@ -1,7 +1,5 @@
 android-download-manager
 ========================
 
-A download manager for android with muti-task downloads, resuming downloads, traffic counter and the basic task controls such as pause, continue and delete.
+一个下载管理器为android多任务下载，恢复下载、流量计数器和基本任务控件，如暂停、继续和删除.
 
-NOTE:
-1. Any questions please contact xyy.dev@gmail.com or twitter.com/yingyixu or weibo.com/yingyixu
